@@ -1,0 +1,25 @@
+2026-02-27 15:30:15,418 - ERROR - HTTPSConnectionPool(host='drive.usercontent.google.com', port=443): Read timed out. (read timeout=15)
+2026-02-27 15:32:50,991 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:32:53,309 - ERROR - <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files/1RGjf3oMl6zJy961tnTsmAPVnwAPr0pGl?alt=media returned "File not found: 1RGjf3oMl6zJy961tnTsmAPVnwAPr0pGl.". Details: "[{'message': 'File not found: 1RGjf3oMl6zJy961tnTsmAPVnwAPr0pGl.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2026-02-27 15:35:32,118 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:35:35,667 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 15:35:40,789 - INFO - om shah | Python Developer | 40 | manual_review
+2026-02-27 15:41:09,926 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:41:13,305 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 15:41:18,942 - INFO - om shah | Python Developer | 40 | manual_review
+2026-02-27 15:45:43,871 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:45:45,879 - ERROR - <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files/1W-EtzovFevt2fvmsnWte_ulqmEebq5_w?alt=media returned "File not found: 1W-EtzovFevt2fvmsnWte_ulqmEebq5_w.". Details: "[{'message': 'File not found: 1W-EtzovFevt2fvmsnWte_ulqmEebq5_w.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2026-02-27 15:46:05,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:46:07,317 - ERROR - <HttpError 404 when requesting https://www.googleapis.com/drive/v3/files/1W-EtzovFevt2fvmsnWte_ulqmEebq5_w?alt=media returned "File not found: 1W-EtzovFevt2fvmsnWte_ulqmEebq5_w.". Details: "[{'message': 'File not found: 1W-EtzovFevt2fvmsnWte_ulqmEebq5_w.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2026-02-27 15:46:58,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:47:01,880 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 15:47:07,108 - INFO - John smith | Python Developer | 35 | rejected
+2026-02-27 15:47:07,158 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 15:47:10,260 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 15:47:15,567 - INFO - . | QA | 10 | rejected
+2026-02-27 16:11:29,701 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 16:11:33,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 16:11:39,230 - INFO - . | Python Developer | 40 | manual_review
+2026-02-27 19:40:00,202 - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-27 19:40:06,770 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-27 19:40:15,793 - INFO - Pratham shah | Python Developer | 45 | manual_review
